@@ -178,3 +178,5 @@ where `$CHECKPOINT` is the path to downloaded checkpoint.
 
 In order to train against a checkpoint, you can pass 'extra_players' argument to create_environment function.
 For example extra_players='ppo2_cnn:right_players=1,policy=gfootball_impala_cnn,checkpoint=$CHECKPOINT'.
+ zeile hinzufügen
+ zeile hinzufügen
